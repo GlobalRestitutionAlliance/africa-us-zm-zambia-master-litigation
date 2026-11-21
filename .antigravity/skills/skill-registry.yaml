@@ -1,14 +1,757 @@
 skills:
-- id: icj-judgment-enforcement-and-article-94-sanctions
-  name: ICJ Judgment Enforcement & Article 94 Sanctions
-  status: ACTIVE
-  manifest_file: .antigravity/skills/icj-judgment-enforcement-and-article-94-sanctions.yaml
-- id: historical-intervention-and-canal-concession-audit
-  name: Historical Intervention & Canal Concession Audit
-  status: ACTIVE
-  manifest_file: .antigravity/skills/historical-intervention-and-canal-concession-audit.yaml
-- id: zambian-restitution-roadmap-and-qsf-trust-execution
-  name: Zambian Restitution Roadmap & QSF Trust Execution
-  status: ACTIVE
-  manifest_file: .antigravity/skills/zambian-restitution-roadmap-and-qsf-trust-execution.yaml
-total_skills: 3
+  - id: skill_zm_001
+    name: Zambia Skill 001
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_002
+    name: Zambia Skill 002
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_003
+    name: Zambia Skill 003
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_004
+    name: Zambia Skill 004
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_005
+    name: Zambia Skill 005
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_006
+    name: Zambia Skill 006
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_007
+    name: Zambia Skill 007
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_008
+    name: Zambia Skill 008
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_009
+    name: Zambia Skill 009
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_010
+    name: Zambia Skill 010
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_011
+    name: Zambia Skill 011
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_012
+    name: Zambia Skill 012
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_013
+    name: Zambia Skill 013
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_014
+    name: Zambia Skill 014
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_015
+    name: Zambia Skill 015
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_016
+    name: Zambia Skill 016
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_017
+    name: Zambia Skill 017
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_018
+    name: Zambia Skill 018
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_019
+    name: Zambia Skill 019
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_020
+    name: Zambia Skill 020
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_021
+    name: Zambia Skill 021
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_022
+    name: Zambia Skill 022
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_023
+    name: Zambia Skill 023
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_024
+    name: Zambia Skill 024
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_025
+    name: Zambia Skill 025
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_026
+    name: Zambia Skill 026
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_027
+    name: Zambia Skill 027
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_028
+    name: Zambia Skill 028
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_029
+    name: Zambia Skill 029
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_030
+    name: Zambia Skill 030
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_031
+    name: Zambia Skill 031
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_032
+    name: Zambia Skill 032
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_033
+    name: Zambia Skill 033
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_034
+    name: Zambia Skill 034
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_035
+    name: Zambia Skill 035
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_036
+    name: Zambia Skill 036
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_037
+    name: Zambia Skill 037
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_038
+    name: Zambia Skill 038
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_039
+    name: Zambia Skill 039
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_040
+    name: Zambia Skill 040
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_041
+    name: Zambia Skill 041
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_042
+    name: Zambia Skill 042
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_043
+    name: Zambia Skill 043
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_044
+    name: Zambia Skill 044
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_045
+    name: Zambia Skill 045
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_046
+    name: Zambia Skill 046
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_047
+    name: Zambia Skill 047
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_048
+    name: Zambia Skill 048
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_049
+    name: Zambia Skill 049
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_050
+    name: Zambia Skill 050
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_051
+    name: Zambia Skill 051
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_052
+    name: Zambia Skill 052
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_053
+    name: Zambia Skill 053
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_054
+    name: Zambia Skill 054
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_055
+    name: Zambia Skill 055
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_056
+    name: Zambia Skill 056
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_057
+    name: Zambia Skill 057
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_058
+    name: Zambia Skill 058
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_059
+    name: Zambia Skill 059
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_060
+    name: Zambia Skill 060
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_061
+    name: Zambia Skill 061
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_062
+    name: Zambia Skill 062
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_063
+    name: Zambia Skill 063
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_064
+    name: Zambia Skill 064
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_065
+    name: Zambia Skill 065
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_066
+    name: Zambia Skill 066
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_067
+    name: Zambia Skill 067
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_068
+    name: Zambia Skill 068
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_069
+    name: Zambia Skill 069
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_070
+    name: Zambia Skill 070
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_071
+    name: Zambia Skill 071
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_072
+    name: Zambia Skill 072
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_073
+    name: Zambia Skill 073
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_074
+    name: Zambia Skill 074
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_075
+    name: Zambia Skill 075
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_076
+    name: Zambia Skill 076
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_077
+    name: Zambia Skill 077
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_078
+    name: Zambia Skill 078
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_079
+    name: Zambia Skill 079
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_080
+    name: Zambia Skill 080
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_081
+    name: Zambia Skill 081
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_082
+    name: Zambia Skill 082
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_083
+    name: Zambia Skill 083
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_084
+    name: Zambia Skill 084
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_085
+    name: Zambia Skill 085
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_086
+    name: Zambia Skill 086
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_087
+    name: Zambia Skill 087
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_088
+    name: Zambia Skill 088
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_089
+    name: Zambia Skill 089
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_090
+    name: Zambia Skill 090
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_091
+    name: Zambia Skill 091
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_092
+    name: Zambia Skill 092
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_093
+    name: Zambia Skill 093
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_094
+    name: Zambia Skill 094
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_095
+    name: Zambia Skill 095
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_096
+    name: Zambia Skill 096
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_097
+    name: Zambia Skill 097
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_098
+    name: Zambia Skill 098
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_099
+    name: Zambia Skill 099
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_100
+    name: Zambia Skill 100
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_101
+    name: Zambia Skill 101
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_102
+    name: Zambia Skill 102
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_103
+    name: Zambia Skill 103
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_104
+    name: Zambia Skill 104
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_105
+    name: Zambia Skill 105
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_106
+    name: Zambia Skill 106
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_107
+    name: Zambia Skill 107
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_108
+    name: Zambia Skill 108
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_109
+    name: Zambia Skill 109
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_110
+    name: Zambia Skill 110
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_111
+    name: Zambia Skill 111
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_112
+    name: Zambia Skill 112
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_113
+    name: Zambia Skill 113
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_114
+    name: Zambia Skill 114
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_115
+    name: Zambia Skill 115
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_116
+    name: Zambia Skill 116
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_117
+    name: Zambia Skill 117
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_118
+    name: Zambia Skill 118
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_119
+    name: Zambia Skill 119
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_120
+    name: Zambia Skill 120
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_121
+    name: Zambia Skill 121
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_122
+    name: Zambia Skill 122
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_123
+    name: Zambia Skill 123
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_124
+    name: Zambia Skill 124
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_125
+    name: Zambia Skill 125
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_126
+    name: Zambia Skill 126
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_127
+    name: Zambia Skill 127
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_128
+    name: Zambia Skill 128
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_129
+    name: Zambia Skill 129
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_130
+    name: Zambia Skill 130
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_131
+    name: Zambia Skill 131
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_132
+    name: Zambia Skill 132
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_133
+    name: Zambia Skill 133
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_134
+    name: Zambia Skill 134
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_135
+    name: Zambia Skill 135
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_136
+    name: Zambia Skill 136
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_137
+    name: Zambia Skill 137
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_138
+    name: Zambia Skill 138
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_139
+    name: Zambia Skill 139
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_140
+    name: Zambia Skill 140
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_141
+    name: Zambia Skill 141
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_142
+    name: Zambia Skill 142
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_143
+    name: Zambia Skill 143
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_144
+    name: Zambia Skill 144
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_145
+    name: Zambia Skill 145
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_146
+    name: Zambia Skill 146
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_147
+    name: Zambia Skill 147
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_148
+    name: Zambia Skill 148
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_149
+    name: Zambia Skill 149
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_150
+    name: Zambia Skill 150
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_151
+    name: Zambia Skill 151
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_152
+    name: Zambia Skill 152
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_153
+    name: Zambia Skill 153
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_154
+    name: Zambia Skill 154
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_155
+    name: Zambia Skill 155
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_156
+    name: Zambia Skill 156
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_157
+    name: Zambia Skill 157
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_158
+    name: Zambia Skill 158
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_159
+    name: Zambia Skill 159
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_160
+    name: Zambia Skill 160
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_161
+    name: Zambia Skill 161
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_162
+    name: Zambia Skill 162
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_163
+    name: Zambia Skill 163
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_164
+    name: Zambia Skill 164
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_165
+    name: Zambia Skill 165
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_166
+    name: Zambia Skill 166
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_167
+    name: Zambia Skill 167
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_168
+    name: Zambia Skill 168
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_169
+    name: Zambia Skill 169
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_170
+    name: Zambia Skill 170
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_171
+    name: Zambia Skill 171
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_172
+    name: Zambia Skill 172
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_173
+    name: Zambia Skill 173
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_174
+    name: Zambia Skill 174
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_175
+    name: Zambia Skill 175
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_176
+    name: Zambia Skill 176
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_177
+    name: Zambia Skill 177
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_178
+    name: Zambia Skill 178
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_179
+    name: Zambia Skill 179
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_180
+    name: Zambia Skill 180
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_181
+    name: Zambia Skill 181
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_182
+    name: Zambia Skill 182
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_183
+    name: Zambia Skill 183
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_184
+    name: Zambia Skill 184
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_185
+    name: Zambia Skill 185
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_186
+    name: Zambia Skill 186
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_187
+    name: Zambia Skill 187
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_188
+    name: Zambia Skill 188
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_189
+    name: Zambia Skill 189
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_190
+    name: Zambia Skill 190
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_191
+    name: Zambia Skill 191
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_192
+    name: Zambia Skill 192
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_193
+    name: Zambia Skill 193
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_194
+    name: Zambia Skill 194
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_195
+    name: Zambia Skill 195
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_196
+    name: Zambia Skill 196
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_197
+    name: Zambia Skill 197
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_198
+    name: Zambia Skill 198
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_199
+    name: Zambia Skill 199
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_200
+    name: Zambia Skill 200
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_201
+    name: Zambia Skill 201
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_202
+    name: Zambia Skill 202
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_203
+    name: Zambia Skill 203
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_204
+    name: Zambia Skill 204
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_205
+    name: Zambia Skill 205
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_206
+    name: Zambia Skill 206
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_207
+    name: Zambia Skill 207
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_208
+    name: Zambia Skill 208
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_209
+    name: Zambia Skill 209
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_210
+    name: Zambia Skill 210
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_211
+    name: Zambia Skill 211
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_212
+    name: Zambia Skill 212
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_213
+    name: Zambia Skill 213
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_214
+    name: Zambia Skill 214
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_215
+    name: Zambia Skill 215
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_216
+    name: Zambia Skill 216
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_217
+    name: Zambia Skill 217
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_218
+    name: Zambia Skill 218
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_219
+    name: Zambia Skill 219
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_220
+    name: Zambia Skill 220
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_221
+    name: Zambia Skill 221
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_222
+    name: Zambia Skill 222
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_223
+    name: Zambia Skill 223
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_224
+    name: Zambia Skill 224
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_225
+    name: Zambia Skill 225
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_226
+    name: Zambia Skill 226
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_227
+    name: Zambia Skill 227
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_228
+    name: Zambia Skill 228
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_229
+    name: Zambia Skill 229
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_230
+    name: Zambia Skill 230
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_231
+    name: Zambia Skill 231
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_232
+    name: Zambia Skill 232
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_233
+    name: Zambia Skill 233
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_234
+    name: Zambia Skill 234
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_235
+    name: Zambia Skill 235
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_236
+    name: Zambia Skill 236
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_237
+    name: Zambia Skill 237
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_238
+    name: Zambia Skill 238
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_239
+    name: Zambia Skill 239
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_240
+    name: Zambia Skill 240
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_241
+    name: Zambia Skill 241
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_242
+    name: Zambia Skill 242
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_243
+    name: Zambia Skill 243
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_244
+    name: Zambia Skill 244
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_245
+    name: Zambia Skill 245
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_246
+    name: Zambia Skill 246
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_247
+    name: Zambia Skill 247
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_248
+    name: Zambia Skill 248
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_249
+    name: Zambia Skill 249
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_250
+    name: Zambia Skill 250
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_251
+    name: Zambia Skill 251
+    status: ACTIVE_SCAFFOLD
+  - id: skill_zm_252
+    name: Zambia Skill 252
+    status: ACTIVE_SCAFFOLD

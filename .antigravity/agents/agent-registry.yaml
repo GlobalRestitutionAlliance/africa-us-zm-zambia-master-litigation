@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-zambia-canal-and-intervention-historian
-  name: Zambia Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-zambia-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_zm_001
+    name: Zambia Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_002
+    name: Zambia Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_003
+    name: Zambia Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_004
+    name: Zambia Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_005
+    name: Zambia Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_006
+    name: Zambia Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_007
+    name: Zambia Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_008
+    name: Zambia Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_009
+    name: Zambia Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_010
+    name: Zambia Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_011
+    name: Zambia Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_012
+    name: Zambia Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_013
+    name: Zambia Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_014
+    name: Zambia Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_015
+    name: Zambia Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_016
+    name: Zambia Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_017
+    name: Zambia Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_018
+    name: Zambia Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_019
+    name: Zambia Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_020
+    name: Zambia Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_021
+    name: Zambia Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_022
+    name: Zambia Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_023
+    name: Zambia Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_024
+    name: Zambia Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_025
+    name: Zambia Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_026
+    name: Zambia Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_027
+    name: Zambia Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_028
+    name: Zambia Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_029
+    name: Zambia Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_030
+    name: Zambia Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_031
+    name: Zambia Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_032
+    name: Zambia Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_033
+    name: Zambia Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_034
+    name: Zambia Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_035
+    name: Zambia Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_036
+    name: Zambia Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_037
+    name: Zambia Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_038
+    name: Zambia Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_039
+    name: Zambia Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_040
+    name: Zambia Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_041
+    name: Zambia Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_042
+    name: Zambia Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_043
+    name: Zambia Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_044
+    name: Zambia Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_045
+    name: Zambia Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_046
+    name: Zambia Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_047
+    name: Zambia Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_048
+    name: Zambia Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_049
+    name: Zambia Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_050
+    name: Zambia Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_051
+    name: Zambia Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_052
+    name: Zambia Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_053
+    name: Zambia Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_054
+    name: Zambia Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_055
+    name: Zambia Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_056
+    name: Zambia Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_057
+    name: Zambia Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_058
+    name: Zambia Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_059
+    name: Zambia Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_060
+    name: Zambia Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_061
+    name: Zambia Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_062
+    name: Zambia Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_063
+    name: Zambia Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_064
+    name: Zambia Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_065
+    name: Zambia Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_066
+    name: Zambia Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_067
+    name: Zambia Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_068
+    name: Zambia Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_069
+    name: Zambia Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_070
+    name: Zambia Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_071
+    name: Zambia Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_072
+    name: Zambia Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_073
+    name: Zambia Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_074
+    name: Zambia Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_075
+    name: Zambia Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_076
+    name: Zambia Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_077
+    name: Zambia Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_078
+    name: Zambia Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_079
+    name: Zambia Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_080
+    name: Zambia Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_081
+    name: Zambia Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_082
+    name: Zambia Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_083
+    name: Zambia Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_084
+    name: Zambia Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_085
+    name: Zambia Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_086
+    name: Zambia Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_087
+    name: Zambia Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_088
+    name: Zambia Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_089
+    name: Zambia Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_090
+    name: Zambia Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_091
+    name: Zambia Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_092
+    name: Zambia Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_093
+    name: Zambia Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_094
+    name: Zambia Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_095
+    name: Zambia Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_096
+    name: Zambia Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_097
+    name: Zambia Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_098
+    name: Zambia Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_099
+    name: Zambia Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_100
+    name: Zambia Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_101
+    name: Zambia Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_102
+    name: Zambia Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_103
+    name: Zambia Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_104
+    name: Zambia Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_105
+    name: Zambia Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_106
+    name: Zambia Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_107
+    name: Zambia Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_108
+    name: Zambia Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_109
+    name: Zambia Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_110
+    name: Zambia Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_111
+    name: Zambia Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_112
+    name: Zambia Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_113
+    name: Zambia Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_114
+    name: Zambia Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_115
+    name: Zambia Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_116
+    name: Zambia Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_117
+    name: Zambia Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_118
+    name: Zambia Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_119
+    name: Zambia Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_120
+    name: Zambia Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_121
+    name: Zambia Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_122
+    name: Zambia Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_123
+    name: Zambia Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_124
+    name: Zambia Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_125
+    name: Zambia Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_126
+    name: Zambia Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_127
+    name: Zambia Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_128
+    name: Zambia Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_129
+    name: Zambia Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_130
+    name: Zambia Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_131
+    name: Zambia Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_132
+    name: Zambia Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_133
+    name: Zambia Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_134
+    name: Zambia Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_135
+    name: Zambia Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_136
+    name: Zambia Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_137
+    name: Zambia Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_138
+    name: Zambia Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_139
+    name: Zambia Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_140
+    name: Zambia Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_141
+    name: Zambia Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_142
+    name: Zambia Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_143
+    name: Zambia Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_144
+    name: Zambia Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_145
+    name: Zambia Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_146
+    name: Zambia Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_147
+    name: Zambia Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_148
+    name: Zambia Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_149
+    name: Zambia Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_150
+    name: Zambia Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_151
+    name: Zambia Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_152
+    name: Zambia Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_153
+    name: Zambia Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_154
+    name: Zambia Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_155
+    name: Zambia Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_156
+    name: Zambia Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_157
+    name: Zambia Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_158
+    name: Zambia Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_159
+    name: Zambia Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_160
+    name: Zambia Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_161
+    name: Zambia Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_162
+    name: Zambia Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_163
+    name: Zambia Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_164
+    name: Zambia Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_165
+    name: Zambia Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_166
+    name: Zambia Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_167
+    name: Zambia Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_168
+    name: Zambia Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_169
+    name: Zambia Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_zm_170
+    name: Zambia Agent 170
+    status: ACTIVE_SCAFFOLD
