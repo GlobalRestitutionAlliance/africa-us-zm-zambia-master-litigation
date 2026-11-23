@@ -1,0 +1,18 @@
+{
+  "url": "https://data.worldbank.org/country/zambia",
+  "final_url": "https://data.worldbank.org/country/zambia",
+  "title": "World Bank Zambia",
+  "fetched_at": "2026-11-23T08:08:34.875878Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "content_type": "text/html; browser-rendered-outerHTML",
+  "bytes": 44503,
+  "sha256": "f2e26e316b232c3d69e1638ef14fa394430b5468a0ef02c16c8f84a3e3e94e1d",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Captured via browser fallback; not authenticated; pending legal review.",
+  "substantive": false,
+  "quality_flag": "NOT_SUBSTANTIVE_CHALLENGE_PENDING_RECAPTURE",
+  "annotation_note": "Browser capture landed on bot-challenge/AWS WAF/CF interstitial; not substantive evidence. Pending recapture."
+}
