@@ -34,10 +34,5 @@
     "cf-cache-status": "DYNAMIC",
     "CF-RAY": "a5e2ea5ff9511a44-MIA",
     "alt-svc": "h3=\":443\"; ma=86400"
-  },
-  "http_status": 200,
-  "fetched_at": "2026-11-21T21:48:44.477697Z",
-  "substantive": true,
-  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW",
-  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
+  }
 }
